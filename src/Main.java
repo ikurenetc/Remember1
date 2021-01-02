@@ -11,4 +11,6 @@ public class Main {
         return a+b;
     }
     int a;
+    int b;
+    int c;
 }
